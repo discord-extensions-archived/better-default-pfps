@@ -1,0 +1,9 @@
+{
+    "name": "Better Default PFPs",
+    "description": "Makes Discord's default profile pictures \"better.\"",
+    "version": "1.0.0",
+    "author": "LuckFire#4800",
+    "theme": "index.scss",
+    "consent": "true",
+    "license": "MIT"
+}
