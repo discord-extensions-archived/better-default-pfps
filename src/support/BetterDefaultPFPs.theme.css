@@ -30,9 +30,9 @@ After "compiled/", change the file that is being imported. A list of styles can 
     15.   weave.css
     
     -- ARE ANIMATED --
-    16. blast-animated.css [default]
-    17. checkerboard-animated.css
-    18. lines-animated.css
+    16.   blast-animated.css [default]
+    17.   checkerboard-animated.css
+    18   lines-animated.css
 */
 
 @import url('https://discord-theme-addons.github.io/better-default-pfps/src/styles/compiled/blast-animated.css')

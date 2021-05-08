@@ -1,9 +1,9 @@
 @import '../pfps';
 @each $color, $src in $pfpTypes {
-    .avatarUploader-3XDtmn [style*="/assets/#{$src}"] {
+    [style*="/assets/#{$src}"] {
         background-image: url('https://discord-theme-addons.github.io/better-default-pfps/profile-pictures/blast-animated/default-#{$color}.gif') !important;
     }
-    .avatar-VxgULZ[src="/assets/#{$src}"] {
+    [src="/assets/#{$src}"] {
         content: url('https://discord-theme-addons.github.io/better-default-pfps/profile-pictures/blast-animated/default-#{$color}.gif');
     }
 }
