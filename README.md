@@ -29,24 +29,24 @@ git clone https://github.com/Discord-Theme-Addons/better-default-pfps
 **Available Styles:**
 ```
 -- NON ANIMATED --
-1.    blast.css
-2.    checkerboard.css
-3.    clouds.css
-4.    dots.css
-5.    dust.css
-6.    gradient.css
-7.    hearts.css
-8.    lines.css
-9.    ocean.css
-10.   pastel.css
-11.   solid.css
-12.   stairs.css
-13.   tessellation.css
-14.   tribal.css
-15.   weave.css
+1.    blast
+2.    checkerboard
+3.    clouds
+4.    dots
+5.    dust
+6.    gradient
+7.    hearts
+8.    lines
+9.    ocean
+10.   pastel
+11.   solid
+12.   stairs
+13.   tessellation
+14.   tribal
+15.   weave
 
 -- ARE ANIMATED --
-16. blast-animated.css [default]
-17. checkerboard-animated.css
-18. lines-animated.css 
+16. blast-animated [default]
+17. checkerboard-animated
+18. lines-animated 
 ```
